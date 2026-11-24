@@ -1,0 +1,8 @@
+.env
+node_modules/
+frontend/dist/
+frontend/.cache/
+backend/.cache/
+backend/server
+.publish-git/
+*.log
